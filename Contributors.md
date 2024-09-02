@@ -1,7 +1,7 @@
 
 # Contributors
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
-
+- [Giuseppe Toritto] (https://github.com/GToritto) **Hi everyone good luck!**
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
 - [Chetan Zagade](https://github.com/chetangotgithub) ** Starting Open Source**
 - [Dustin Reuter]((https://github.com/Dxxtxx) **Hello I am new to git and GitHub**
